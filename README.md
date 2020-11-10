@@ -8,7 +8,7 @@ This is Natural Language Process analysis for Stack Overflow Questions and Answe
 Questions Clustering for Stack Overflow
 
  Agenda
- **Project Background
+ **Project Background**
  
  About Stack Overflow:
 - A question and answer site for professional and enthusiastic programmers
@@ -24,7 +24,7 @@ Guiding significance:
 - Identify user needs and expectations
 - Help manage the community and improve recommendation system
 
-**Data Description & Preparation
+**Data Description & Preparation**
 
 Data Description:
 Datasets include 10% of questions and those corresponding answers from the Stack Overflow programming Q&A website.
@@ -36,7 +36,7 @@ Data Preparation:
 - Turn Questions.CSV file to Questions.JSON file, and break down on yearly basis
 - Basic text processing: Remove Stopwords, Punctuations...
 
-**Research Questions
+**Research Questions**
 
 Q1. What were the popular topics among 2008 - 2016 questions?
 - Questions file and Tags file
@@ -48,9 +48,10 @@ Q3. Is there any correlation between the length of question/answer and its score
 - Answers file & Questions file & Tags file
 - Summarize question body for title recommendation; apply linear regression for correlation analysis
 
-**Methodologies 4 & Findings
+**Methodologies 4 & Findings**
 
 Listed in the PDF - "Methodologies and Findings"
 
+##########################################################################################
 --Published at 9 Nov by Downey
 
