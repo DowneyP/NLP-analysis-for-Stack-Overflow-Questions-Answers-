@@ -8,6 +8,7 @@ This is Natural Language Process analysis for Stack Overflow Questions and Answe
 Questions Clustering for Stack Overflow
 
  Agenda
+ 
  **Project Background**
  
  About Stack Overflow:
